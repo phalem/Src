@@ -1,9 +1,10 @@
 # Src
+Paper link:
+https://doi.org/10.26434/chemrxiv-2022-090pf
 
 In this repositories I provide the link and external notebooks that used in paper include :
-
 Src Kinase app link :
-`` will provided after paper accepted
+`https://phalem-src-kinase-app-generation-home-page-yanr06.streamlitapp.com/`
 
 Project on Behance link:
 `https://www.behance.net/gallery/149583421/Src-Kinaseinhibitor-generation-app-Landing-page`
