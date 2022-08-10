@@ -1,5 +1,5 @@
 # Src
-preprint link:
+Link:
 https://doi.org/10.26434/chemrxiv-2022-090pf
 
 In this repositories I provide the link and external notebooks that used in paper include :
