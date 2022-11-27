@@ -11,7 +11,8 @@ SaveMol on Behance:
 `https://www.behance.net/gallery/149658289/SaveMol-First-MERN-stack-Chemoinformatics-app`
 
 SaveMol web link :
-`https://savemols.herokuapp.com/home`
+~~`https://savemols.herokuapp.com/home`~~
+`https://savemol.onrender.com/`
 
 HOW_TO_VS provide a notebook
 
