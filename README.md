@@ -1,6 +1,9 @@
 # Src
 
 In this repositories I provide the link and external notebooks that used in paper include :
+
+Note: App some times go sleep mode, so please click on yes wake up and wait until it loaded.
+
 Src Kinase app link :
 `https://phalem-src-kinase-app-generation-home-page-yanr06.streamlitapp.com/`
 
@@ -12,7 +15,10 @@ SaveMol on Behance:
 
 SaveMol web link :
 ~~`https://savemols.herokuapp.com/home`~~
+
 `https://savemol.onrender.com/`
+
+Note: First link is an old link, so if it doesn't work try second link. Website will take time to loaded in the first time, please wait some minutes until it loaded.
 
 HOW_TO_VS provide a notebook
 
