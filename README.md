@@ -5,7 +5,8 @@ In this repositories I provide the link and external notebooks that used in pape
 Note: App some times go sleep mode, so please click on yes wake up and wait until it loaded.
 
 Src Kinase app link :
-`https://phalem-src-kinase-app-generation-home-page-yanr06.streamlitapp.com/`
+~~`https://phalem-src-kinase-app-generation-home-page-yanr06.streamlitapp.com/`~~
+`https://srckinase.streamlit.app/`
 
 Project on Behance link:
 `https://www.behance.net/gallery/149583421/Src-Kinaseinhibitor-generation-app-Landing-page`
