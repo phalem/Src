@@ -23,6 +23,12 @@ SaveMol web link :
 
 `https://savemol.onrender.com/`
 
+To fast login to test the app functionality use:
+
+email:`temporary@temporary.com`
+
+password: `temporary`
+
 Note: First link is an old link, so if it doesn't work try second link. Website will take time to loaded in the first time, please wait some minutes until it loaded.
 
 HOW_TO_VS provide a notebook
