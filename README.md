@@ -25,7 +25,7 @@ SaveMol web link :
 
 To fast login to test the app functionality use:
 
-email:`temporary@temporary.com`
+email:`temporary@savemol.com`
 
 password: `temporary`
 
